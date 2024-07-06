@@ -17,6 +17,11 @@ This repository is dedicated to practicing **Playwright** with **TypeScript** au
     -   URL: [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/)
     -   Description: A Web API with authentication and some CRUD features.
 
+-   **Testing Playground**
+
+    -   URL: [https://nearform.github.io/testing-playground/#/](https://nearform.github.io/testing-playground/#/)
+    -   Description: Create by Nearform for QA engineers to target their test automation on specific components of the web application.
+
 ## Project Structure
 
 All projects have their individual pages inside the `tests` folder. They share the same configurations for simplicity in a learning context. Additionally, this repository uses **GitHub Actions** for continuous integration and automated testing.
